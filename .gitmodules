@@ -1,0 +1,6 @@
+[submodule "lct-2023-back"]
+	path = lct-2023-back
+	url = https://github.com/exln/lct-2023-back.git
+[submodule "lct-2023-front"]
+	path = lct-2023-front
+	url = https://github.com/exln/lct-2023-front.git
